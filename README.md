@@ -1,4 +1,6 @@
 # adgg_v2
 A dashboard for the Africa Dairy Genetics Gains (ADGG) project
 
-This fork will is designed to allow to track changes for the axgg database changes, you are welcome to contribute
+Welcome, we will be using this fork from the main branch to make changes to the database file. and when we are satisfied with 
+the changes we will merge this to the main project. Enjoy
+
